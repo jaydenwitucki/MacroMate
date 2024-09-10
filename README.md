@@ -3,6 +3,9 @@
   <img src="./src/imgs/img.png" alt="HomeScreen" width="500" height="500" style="margin-right: 10px;"/>
 </div>
 
+- A website enabling users to easily track and log their daily macronutrient intake.
+
+- Designed a user-friendly interface for seamless macro tracking, ensuring accessibility for users of all experience levels.
 
 
 
