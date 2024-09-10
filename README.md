@@ -1,3 +1,11 @@
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="./src/imgs/img.png" alt="HomeScreen" width="500" height="500" style="margin-right: 10px;"/>
+</div>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
