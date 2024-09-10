@@ -1,0 +1,47 @@
+
+.about-macro-buddy {
+    text-align: center;
+    margin: 20px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.image {
+    margin: 10px;
+    position: relative;
+}
+
+.image img {
+    max-width: 70%;
+    height: auto;
+}
+
+.text-under-image {
+    text-align: center;
+    position: relative;
+    bottom: 8em;
+    font-size:10px;
+    left: 70%;
+    transform: translateX(-50%);
+        font-family: 'Roboto Mono', monospace;
+}
+
+.believe-section {
+    margin-top: 20px;
+            font-family: 'Roboto Mono', monospace;
+}
+
+
+h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+p {
+    line-height: 1.5;
+}

@@ -1,0 +1,74 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    font-family: 'Roboto Mono', monospace;
+
+    color: black;
+}
+
+span {
+    margin-left: 10px;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    max-width: 100%;
+    height: auto;
+    margin-right: 10px;
+    /* Adjust margin as needed */
+}
+
+.logo span {
+    font-weight: bold;
+    margin-top: 2px;
+    /* Adjust this value to vertically align with nav links */
+}
+
+.logo1 {
+    height: 80px;
+    width: 80px;
+}
+
+.login {
+    border-style: solid;
+    border-radius: 2em;
+    background-color: #8de0da;
+    text-decoration: none;
+    padding: .5em 1em;
+    border-color: #000000
+}
+
+.login:hover { 
+    background-color: #8de0da;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+}
+
+.nav-links a {
+    color: black;
+    text-decoration: none;
+    margin: 0 10px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+
+
+.nav-links a:hover { 
+background-color: #8de0da;
+border-radius: 1em;
+padding: .5em 1em;
+}
+
+
+
+/* ... other styles ... */

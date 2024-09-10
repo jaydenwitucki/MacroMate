@@ -1,0 +1,41 @@
+
+
+.welcome-section {
+    text-align: center;
+    margin: 50px 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+.subheading {
+    margin-top: 0;
+    color: #555;
+    position:relative;
+    bottom: 1.2em;
+}
+
+
+
+.buttons button {
+    margin: .5em;
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: rgb(138, 167, 177);
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+
+.button2 { 
+    margin-top: 2em;
+}
+
+.buttons button:hover {
+    background-color: #8de0da;
+}

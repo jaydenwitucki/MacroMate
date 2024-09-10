@@ -1,0 +1,91 @@
+.authenticated-view-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Roboto Mono', monospace;
+}
+
+.item {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.item-title {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+/* AddItem styles */
+.add-item-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Roboto Mono', monospace;
+}
+
+/* Styles for form labels and input fields */
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+input[type="text"],
+select,
+button,
+input[type="checkbox"] {
+    margin-bottom: 10px;
+    padding: 8px;
+    font-family: 'Roboto Mono', monospace;
+    width: 100%;
+}
+
+.checkbox-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.checkbox-container label {
+    margin-right: 10px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+button {
+    background-color: rgb(138, 167, 177);;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+button:hover {
+    background-color: #8de0da;
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1{
+    text-align: center;
+    margin: 50px 20px;
+    font-family: 'Oswald', sans-serif;
+}

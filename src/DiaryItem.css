@@ -1,0 +1,33 @@
+.diary-item {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    text-align: center;
+}
+
+.diary-item img {
+    max-width: 200px;
+    height: auto;
+    border-radius: 4px;
+}
+
+.diary-item h3 {
+    margin: 8px 0;
+}
+
+.diary-item button {
+    background-color: rgb(138, 167, 177);;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 8px;
+}
+
+.diary-item button:hover {
+    background-color: red;
+}
